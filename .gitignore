@@ -1,0 +1,12 @@
+__pycache__/
+*.pth # Exclude model weights
+*.pt # Exclude other PyTorch files
+*.bin # Exclude Hugging Face binaries
+wandb/ # Exclude Weights
+__pycache__/
+*.pth
+*.pt
+*.bin
+wandb/
+data/
+*.ipynb_checkpoints
